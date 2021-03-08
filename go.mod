@@ -23,7 +23,7 @@ require (
 	github.com/go-chi/httprate v0.4.0
 	github.com/go-chi/jwtauth v4.0.4+incompatible
 	github.com/golang/protobuf v1.4.3 // indirect
-	github.com/golangci/golangci-lint v1.36.0
+	github.com/golangci/golangci-lint v1.38.0
 	github.com/google/uuid v1.2.0
 	github.com/google/wire v0.5.0
 	github.com/karrick/godirwalk v1.16.1
@@ -37,7 +37,7 @@ require (
 	github.com/onsi/gomega v1.10.5
 	github.com/pelletier/go-toml v1.8.0 // indirect
 	github.com/pressly/goose v2.7.0+incompatible
-	github.com/sirupsen/logrus v1.7.0
+	github.com/sirupsen/logrus v1.8.0
 	github.com/spf13/afero v1.3.1 // indirect
 	github.com/spf13/cast v1.3.1 // indirect
 	github.com/spf13/cobra v1.1.3
@@ -48,7 +48,7 @@ require (
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8
 	golang.org/x/net v0.0.0-20201202161906-c7110b5ffcbb
-	golang.org/x/tools v0.0.0-20210112230658-8b4aab62c064
+	golang.org/x/tools v0.1.0
 	google.golang.org/protobuf v1.25.0 // indirect
 	gopkg.in/djherbis/atime.v1 v1.0.0
 	gopkg.in/djherbis/stream.v1 v1.3.1
